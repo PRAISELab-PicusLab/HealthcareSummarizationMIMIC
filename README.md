@@ -26,6 +26,21 @@ https://github.com/giuseppericcio/HealthcareSummarizationMIMIC/assets/64225083/6
 
 <hr>
 
+## Citation
+
+Please cite this work as follows:
+
+```bibtex
+@inproceedings{riccio2023healthcare,
+  title={Healthcare Data Summarization via Medical Entity Recognition and Generative AI.},
+  author={Riccio, Giuseppe and Romano, Antonio and Korsun, Andriy and Cirillo, Michele and
+          Postiglione, Marco and La Gatta, Valerio and Ferraro, Antonino and
+          Galli, Antonio and Moscato, Vincenzo},
+  booktitle={itaDATA},
+  year={2023}
+}
+```
+
 ## ⚠️ Warning
 **It is essential to note that MIMIC-III** **contains sensitive patient data** and, therefore, must be handled with the utmost care and in compliance with privacy regulations and institutional policies. Before using the dataset, carefully review and adhere to the guidelines provided by the MIMIC team and consult your local ethics committee.
 
