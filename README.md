@@ -26,7 +26,7 @@ https://github.com/giuseppericcio/HealthcareSummarizationMIMIC/assets/64225083/6
 
 <hr>
 
-## Citation
+## 🖋️ Citation
 
 Please cite this work as follows:
 
